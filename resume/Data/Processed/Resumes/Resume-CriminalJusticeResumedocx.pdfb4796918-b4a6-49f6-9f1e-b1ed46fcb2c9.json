@@ -1,0 +1,267 @@
+{
+              "bi_grams": "[Criminal Justice, 2022Southeastern Louisiana, Louisiana UniversitySLU, UniversitySLU HammondLA, HammondLA GPA, GPA 3.5/4.0Minor, 3.5/4.0Minor French, RELEVANT EXPERIENCEIntern, 2021PresentHammond Police, Police Department, Department Hammond, Hammond LA, LA Shadowed, + officers, multiple shifts, understand law, law enforcement, enforcement best, best practices, practices Collaborated, create Excel, Excel spreadsheet, training statuses, Senior Staff, Staff Reporter, Reporter August, August 2020PresentThe, 2020PresentThe Lion, RoarSLU student, student newspaper, newspaper HammondLA, HammondLA Investigated, + stories, attending events, events interviewing, interviewing key, key individuals, individuals andconducting, andconducting online, online research, research Wrote, sports news, weekly publication, publication Consistently, Consistently met, met deadlines, fact check, Administrative Assistant, 2019March 2020Jane, 2020Jane Doe, Doe Private, Private Investigations, Investigations LLP, LLP Hammond, Hammond LA, LA Promoted, administrative assistant, excellent initiative, initiative Worked, + hours, credit hours, hours maintaining, high GPA, GPA Entrusted, receiving recording, depositing cash, cash payments, LEADERSHIP EXPERIENCEPhilanthropy, EXPERIENCEPhilanthropy Events, Events Chair, Chair August, August 2018May, 2018May 2019Zeta, 2019Zeta Phi, Phi Beta, Beta Sorority, Sorority Inc., Inc. Eta, Eta Lambda, Lambda Chapter, Chapter HammondLA, HammondLA Oversaw, Oversaw team, academic year, implement 13hour, 13hour event, event Created, Created detailed, detailed plans, motivating participants, raised $, + forChildren, Mentor March, March 2018October, 2018October 2018Al, Pals Mentorship, Mentorship ProgramHammond, ProgramHammond LA, LA Tutored, grade students, underserved schoolsresulting, noted behavioral, behavioral improvements, improvements Incorporated, Incorporated simple, straightforward language, effectively convey, convey complex, complex concepts, semesters James, James H., H. Morrison, Morrison Excellence, Government Endowed, Endowed Scholarship, Humanity French, French Club, Club International, International Festival, Festival Host, SKILLSMicrosoft Office, Office Suite, Suite Excel, Excel PowerPoint, PowerPoint Word]",
+              "clean_data": "YOUR  |  |linkedin.com/in/firstlastname\nEDUCATIONBachelor of Arts in Criminal Justice May 2022Southeastern Louisiana UniversitySLU HammondLA GPA 3.5/4.0Minor French\nRELEVANT EXPERIENCEIntern May 2021PresentHammond Police Department Hammond LA Shadowed 5+ officers during multiple shifts to understand law enforcement best practices Collaborated with administrators to create Excel spreadsheet of training statuses of 20+employees\nSenior Staff Reporter August 2020PresentThe Lion\u2019s RoarSLU student newspaper HammondLA Investigated 5+ stories each week by attending events interviewing key individuals andconducting online research Wrote and proofread 2 stories on sports news or arts and entertainment for weekly publication Consistently met deadlines to fact check up to 15 stories per week\nAdministrative Assistant May 2019March 2020Jane Doe Private Investigations LLP Hammond LA Promoted from runner to administrative assistant in first 3 months due to excellent initiative Worked 20+ hours per week while enrolled in 18 credit hours maintaining a high GPA Entrusted with receiving recording and depositing cash payments in excess of $3000\nLEADERSHIP EXPERIENCEPhilanthropy Events Chair August 2018May 2019Zeta Phi Beta Sorority Inc. Eta Lambda Chapter HammondLA Oversaw team of 30+ throughout academic year to create and implement 13hour event Created detailed plans for motivating participants throughout event that raised $300000+ forChildren\u2019s Hospital\nMentor March 2018October 2018Al\u2019s Pals Mentorship ProgramHammond LA Tutored 5\nth \ngrade students in underserved schoolsresulting in noted behavioral improvements Incorporated simple and straightforward language to effectively convey complex concepts\nAWARDS & HONORSDean\u2019s List 3 semesters James H. Morrison Excellence in Government Endowed Scholarship\nSERVICE & INVOLVEMENTHabitat for Humanity French Club International Festival Host\nSKILLSMicrosoft Office Suite Excel PowerPoint Word",
+              "emails": [
+                            "NAMEfirst.lastname@selu.edu"
+              ],
+              "entities": [
+                            "2021PresentHammond Police",
+                            "EDUCATIONBachelor of Arts in Criminal Justice",
+                            "Eta Lambda Chapter",
+                            "GPA",
+                            "Louisiana UniversitySLU",
+                            "August 2020PresentThe Lion",
+                            "LA",
+                            "Incorporated",
+                            "Hospital\nMentor",
+                            "LLP Hammond LA Promoted",
+                            "Phi Beta Sorority Inc.",
+                            "Humanity French Club International Festival Host",
+                            "LEADERSHIP EXPERIENCEPhilanthropy Events Chair",
+                            "SKILLSMicrosoft Office"
+              ],
+              "experience": "",
+              "extracted_keywords": [
+                            "|linkedin.com",
+                            "firstlastname",
+                            "EDUCATIONBachelor",
+                            "Arts",
+                            "Criminal",
+                            "Justice",
+                            "2022Southeastern",
+                            "Louisiana",
+                            "HammondLA",
+                            "GPA",
+                            "3.5/4.0Minor",
+                            "French",
+                            "RELEVANT",
+                            "EXPERIENCEIntern",
+                            "May",
+                            "2021PresentHammond",
+                            "Police",
+                            "Department",
+                            "Hammond",
+                            "LA",
+                            "officers",
+                            "shifts",
+                            "law",
+                            "enforcement",
+                            "practices",
+                            "administrators",
+                            "Excel",
+                            "spreadsheet",
+                            "training",
+                            "statuses",
+                            "Senior",
+                            "Staff",
+                            "Reporter",
+                            "August",
+                            "Lion",
+                            "RoarSLU",
+                            "student",
+                            "newspaper",
+                            "HammondLA",
+                            "stories",
+                            "week",
+                            "events",
+                            "individuals",
+                            "research",
+                            "stories",
+                            "sports",
+                            "news",
+                            "arts",
+                            "entertainment",
+                            "publication",
+                            "deadlines",
+                            "stories",
+                            "week",
+                            "Administrative",
+                            "Assistant",
+                            "May",
+                            "2020Jane",
+                            "Doe",
+                            "Private",
+                            "Investigations",
+                            "LLP",
+                            "Hammond",
+                            "LA",
+                            "runner",
+                            "assistant",
+                            "months",
+                            "initiative",
+                            "hours",
+                            "week",
+                            "credit",
+                            "hours",
+                            "GPA",
+                            "recording",
+                            "cash",
+                            "payments",
+                            "excess",
+                            "LEADERSHIP",
+                            "EXPERIENCEPhilanthropy",
+                            "Events",
+                            "Chair",
+                            "August",
+                            "2019Zeta",
+                            "Phi",
+                            "Beta",
+                            "Sorority",
+                            "Inc.",
+                            "Eta",
+                            "Lambda",
+                            "Chapter",
+                            "HammondLA",
+                            "Oversaw",
+                            "team",
+                            "year",
+                            "event",
+                            "plans",
+                            "participants",
+                            "event",
+                            "forChildren",
+                            "Hospital",
+                            "Mentor",
+                            "March",
+                            "2018October",
+                            "Pals",
+                            "Mentorship",
+                            "ProgramHammond",
+                            "LA",
+                            "grade",
+                            "students",
+                            "improvements",
+                            "language",
+                            "concepts",
+                            "AWARDS",
+                            "HONORSDean",
+                            "List",
+                            "semesters",
+                            "James",
+                            "H.",
+                            "Morrison",
+                            "Excellence",
+                            "Government",
+                            "Endowed",
+                            "Scholarship",
+                            "SERVICE",
+                            "INVOLVEMENTHabitat",
+                            "Humanity",
+                            "French",
+                            "Club",
+                            "International",
+                            "Festival",
+                            "Host",
+                            "SKILLSMicrosoft",
+                            "Office",
+                            "Suite",
+                            "Excel",
+                            "PowerPoint",
+                            "Word"
+              ],
+              "keyterms": [
+                            [
+                                          "Hammond LA",
+                                          0.3058169771763998
+                            ],
+                            [
+                                          "French",
+                                          0.03292198596825307
+                            ],
+                            [
+                                          "GPA",
+                                          0.031065164594573976
+                            ],
+                            [
+                                          "event",
+                                          0.027758340747862188
+                            ],
+                            [
+                                          "student",
+                                          0.025305000193144658
+                            ],
+                            [
+                                          "Excel",
+                                          0.02261492665378529
+                            ],
+                            [
+                                          "story",
+                                          0.021146387046759255
+                            ],
+                            [
+                                          "August",
+                                          0.02073286051570284
+                            ],
+                            [
+                                          "week",
+                                          0.016647593064123428
+                            ],
+                            [
+                                          "individual",
+                                          0.008261133903276194
+                            ],
+                            [
+                                          "research",
+                                          0.008231507173393887
+                            ],
+                            [
+                                          "key",
+                                          0.008179897223053257
+                            ],
+                            [
+                                          "online",
+                                          0.008121679347059815
+                            ],
+                            [
+                                          "hour",
+                                          0.008108325619268771
+                            ],
+                            [
+                                          "newspaper",
+                                          0.00758174457741077
+                            ],
+                            [
+                                          "sport",
+                                          0.0074135723534133995
+                            ],
+                            [
+                                          "publication",
+                                          0.00702338656841857
+                            ],
+                            [
+                                          "entertainment",
+                                          0.006952380806785735
+                            ],
+                            [
+                                          "weekly",
+                                          0.0069231547908134555
+                            ],
+                            [
+                                          "deadline",
+                                          0.006836215803360244
+                            ]
+              ],
+              "name": [],
+              "phones": [],
+              "pos_frequencies": {
+                            "ADJ": 17,
+                            "ADP": 29,
+                            "ADV": 3,
+                            "AUX": 1,
+                            "CCONJ": 10,
+                            "DET": 2,
+                            "NOUN": 54,
+                            "NUM": 20,
+                            "PART": 12,
+                            "PRON": 3,
+                            "PROPN": 82,
+                            "SCONJ": 1,
+                            "SPACE": 13,
+                            "SYM": 4,
+                            "VERB": 30
+              },
+              "resume_data": "YOUR NAMEfirst.lastname@selu.edu | 555-555-5555 |linkedin.com/in/firstlastname\nEDUCATIONBachelor of Arts in Criminal Justice May 2022Southeastern Louisiana University(SLU), Hammond,LA GPA: 3.5/4.0Minor: French\nRELEVANT EXPERIENCEIntern May 2021-PresentHammond Police Department, Hammond, LA\u25cf Shadowed 5+ officers during multiple shifts to understand law enforcement best practices\u25cf Collaborated with administrators to create Excel spreadsheet of training statuses of 20+employees\nSenior Staff Reporter August 2020-PresentThe Lion\u2019s Roar(SLU student newspaper), Hammond,LA\u25cf Investigated 5+ stories each week by attending events, interviewing key individuals, andconducting online research\u25cf Wrote and proofread 2 stories on sports, news, or arts and entertainment for weekly publication\u25cf Consistently met deadlines to fact check up to 15 stories per week\nAdministrative Assistant May 2019-March 2020Jane Doe Private Investigations, LLP, Hammond, LA\u25cf Promoted from runner to administrative assistant in first 3 months due to excellent initiative\u25cf Worked 20+ hours per week while enrolled in 18 credit hours, maintaining a high GPA\u25cf Entrusted with receiving, recording, and depositing cash payments in excess of $3,000\nLEADERSHIP EXPERIENCEPhilanthropy Events Chair August 2018-May 2019Zeta Phi Beta Sorority Inc., Eta Lambda Chapter, Hammond,LA\u25cf Oversaw team of 30+ throughout academic year to create and implement 13-hour event\u25cf Created detailed plans for motivating participants throughout event that raised $300,000+ forChildren\u2019s Hospital\nMentor March 2018-October 2018Al\u2019s Pals Mentorship Program,Hammond, LA\u25cf Tutored 5\nth \ngrade students in underserved schools,resulting in noted behavioral improvements\u25cf Incorporated simple and straightforward language to effectively convey complex concepts\nAWARDS & HONORSDean\u2019s List, 3 semesters; James H. Morrison Excellence in Government Endowed Scholarship\nSERVICE & INVOLVEMENTHabitat for Humanity, French Club, International Festival Host\nSKILLSMicrosoft Office Suite (Excel, PowerPoint, Word)",
+              "tri_grams": "[EDUCATIONBachelor of Arts, Arts in Criminal, Justice May 2022Southeastern, 2022Southeastern Louisiana UniversitySLU, Louisiana UniversitySLU HammondLA, UniversitySLU HammondLA GPA, HammondLA GPA 3.5/4.0Minor, GPA 3.5/4.0Minor French, EXPERIENCEIntern May 2021PresentHammond, 2021PresentHammond Police Department, Police Department Hammond, Department Hammond LA, Hammond LA Shadowed, officers during multiple, shifts to understand, understand law enforcement, law enforcement best, enforcement best practices, best practices Collaborated, Collaborated with administrators, administrators to create, create Excel spreadsheet, spreadsheet of training, statuses of 20+employees, Senior Staff Reporter, Staff Reporter August, Reporter August 2020PresentThe, August 2020PresentThe Lion, Lion\u2019s RoarSLU, RoarSLU student newspaper, student newspaper HammondLA, newspaper HammondLA Investigated, stories each week, week by attending, attending events interviewing, events interviewing key, interviewing key individuals, key individuals andconducting, individuals andconducting online, andconducting online research, online research Wrote, Wrote and proofread, stories on sports, news or arts, arts and entertainment, entertainment for weekly, weekly publication Consistently, publication Consistently met, Consistently met deadlines, deadlines to fact, stories per week, Assistant May 2019March, 2019March 2020Jane Doe, 2020Jane Doe Private, Doe Private Investigations, Private Investigations LLP, Investigations LLP Hammond, LLP Hammond LA, Hammond LA Promoted, Promoted from runner, runner to administrative, excellent initiative Worked, hours per week, week while enrolled, credit hours maintaining, maintaining a high, high GPA Entrusted, Entrusted with receiving, recording and depositing, depositing cash payments, payments in excess, excess of $, LEADERSHIP EXPERIENCEPhilanthropy Events, EXPERIENCEPhilanthropy Events Chair, Events Chair August, Chair August 2018May, August 2018May 2019Zeta, 2018May 2019Zeta Phi, 2019Zeta Phi Beta, Phi Beta Sorority, Beta Sorority Inc., Sorority Inc. Eta, Inc. Eta Lambda, Eta Lambda Chapter, Lambda Chapter HammondLA, Chapter HammondLA Oversaw, HammondLA Oversaw team, + throughout academic, year to create, create and implement, implement 13hour event, 13hour event Created, event Created detailed, Created detailed plans, plans for motivating, participants throughout event, event that raised, forChildren\u2019s Hospital, Mentor March 2018October, March 2018October 2018Al, 2018Al\u2019s Pals, Pals Mentorship ProgramHammond, Mentorship ProgramHammond LA, ProgramHammond LA Tutored, students in underserved, schoolsresulting in noted, noted behavioral improvements, behavioral improvements Incorporated, improvements Incorporated simple, simple and straightforward, language to effectively, effectively convey complex, convey complex concepts, HONORSDean\u2019s List, semesters James H., James H. Morrison, H. Morrison Excellence, Excellence in Government, Government Endowed Scholarship, INVOLVEMENTHabitat for Humanity, Humanity French Club, French Club International, Club International Festival, International Festival Host, SKILLSMicrosoft Office Suite, Office Suite Excel, Suite Excel PowerPoint, Excel PowerPoint Word]",
+              "unique_id": "b4796918-b4a6-49f6-9f1e-b1ed46fcb2c9",
+              "years": []
+}

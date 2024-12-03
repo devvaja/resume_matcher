@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume Upload</title>
+    <style>
+        .highlight-email { background-color: yellow; color: black; }
+        .highlight-phone { background-color: lightblue; color: black; }
+        .highlight-skill { background-color: lightgreen; color: black; }
+    </style>
+</head>
+<body>
+    <h1>Upload Resume</h1>
+    <form action="/upload-resume/" method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        <input type="file" name="resume" accept=".pdf" required>
+        <button type="submit">Upload</button>
+    </form>
+
+    {% if resume_data %}
+    <h2>Annotated Resume</h2>
+    <div>
+        <p>{{ resume_data|safe }}</p>
+    </div>
+    {% endif %}
+</body>
+</html>
