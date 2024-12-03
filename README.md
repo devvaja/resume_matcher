@@ -21,6 +21,6 @@
    Data -> Resume -> Proceed-> Resume
    Data -> JobDescription -> Proceed-> JobDescription
 7. # Create fILES
-    utils.py, processor.py,parser.py file inside app
+   Create utils.py, processor.py, and parsers.py file inside app
 8. # Run the server
    python manage.py runserver
