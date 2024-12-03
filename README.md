@@ -20,6 +20,7 @@
 6. # make directory for storing all the fiels of resume and job description
    Data -> Resume -> Proceed-> Resume
    Data -> JobDescription -> Proceed-> JobDescription
-7. # Create utils.py, processor.py,parser.py file inside app
+7. # Create fILES
+    utils.py, processor.py,parser.py file inside app
 8. # Run the server
    python manage.py runserver
